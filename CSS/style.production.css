@@ -255,9 +255,4 @@ a {
  .cloud-back {
      -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
              animation: 34s cloud-move-reverse infinite alternate linear;
-  }/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v8.4.14,
-* Autoprefixer: v10.4.7
-* Browsers: last 4 version
-*/
+  }
